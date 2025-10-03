@@ -1,5 +1,4 @@
 
-
 ## Project Overview
 Interactive Power BI dashboard analyzing revenue across customers, products, and markets.
 
@@ -17,16 +16,13 @@ Interactive Power BI dashboard analyzing revenue across customers, products, and
 - Year parameter (2017–2020)
 
 ## Screenshots
-![Overview](screenshots/dashboard_page1.png)
-![Top Products & Customers](screenshots/dashboard_page2.png)
-![Revenue Trend](screenshots/dashboard_page3.png)
+![Overview](Screenshots(124).png)
+![Top Products & Customers](Screenshots(125).png)
+![Revenue Trend](Screenshot(126).png)
 
 ## How to Use
-1. Download `Retail-Sales-Dashboard.pbix`
+1. Download Sale_analysis_project.pbix
 2. Open in **Power BI Desktop**
-3. Explore filters and pages
-
-
 
 ## Tools
 Power BI Desktop · DAX ·  SQL
